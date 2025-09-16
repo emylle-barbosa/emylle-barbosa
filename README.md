@@ -19,8 +19,8 @@ Meu foco é aprender constantemente e evoluir minhas habilidades, explorando dif
 
 
 ## Contato
-- ✉️ [E-mail](emyllebarbosadeolima@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/emylle-barbosa/)  
+- [E-mail](mailto:emyllebarbosadeolima@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/emylle-barbosa/)  
 
 
 <img src="https://media.giphy.com/media/9f8mk4P3X2Nvch1z2o/giphy.gif" width="60px">
