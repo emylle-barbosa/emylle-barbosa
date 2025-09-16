@@ -1,16 +1,29 @@
-## Hi there 👋
+# Emylle Barbosa  
 
-<!--
-**emylle-barbosa/emylle-barbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Ciência da Computação** e apaixonada por **tecnologia**.  
+Meu foco é aprender constantemente e evoluir minhas habilidades, explorando diferentes áreas, incluindo **desenvolvimento FullStack**.  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+- HTML5, CSS3  
+- JavaScript  
+- Python  
+- Git & GitHub  
+
+
+## O que estou aprendendo
+- Boas práticas de programação  
+- Desenvolvimento web moderno  
+- Automação com Python  
+- Colaboração em projetos  
+
+
+## Contato
+- ✉️ [E-mail](emyllebarbosadeolima@gmail.com)  
+- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/emylle-barbosa/))  
+
+
+⭐ Perfil em constante evolução.  
+
+<img src="https://media.giphy.com/media/9f8mk4P3X2Nvch1z2o/giphy.gif" width="40px">
+
